@@ -2,5 +2,5 @@
 ## source
 ## links
 ## bullets
-- vamshi
-- reddy
+- https://github.com/vamshiredd/aboutme
+- https://vamshiredd.github.io/aboutme/
