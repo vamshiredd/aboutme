@@ -1,9 +1,8 @@
 # aboutme
 
 ## Repository Links
-- [web page](https://github.com/vamshiredd/aboutme)
-- [source](https://vamshiredd.github.io/aboutme/)
-
+- [web page](https://vamshiredd.github.io/aboutme/)
+- [source](https://github.com/vamshiredd/aboutme)
 ## About
 This repository made me to gain good programming knowledge about github pages
 ## Recommended Tools
